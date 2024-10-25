@@ -1,1 +1,1 @@
-# AL Fustan - A Halal Dress Store
+# Al-Fustan - The Dress Store

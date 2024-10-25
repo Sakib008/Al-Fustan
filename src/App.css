@@ -1,0 +1,14 @@
+#root {
+  box-sizing : border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+:root {
+  --primary-color: #caf0f8;
+  --secondary-color: #344489;
+  --tertiary-color : #FABC3F;
+  --background-color: #03045e;
+  --text-color: #003049;
+}
