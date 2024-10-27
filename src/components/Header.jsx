@@ -16,7 +16,7 @@ export function Header() {
         <nav className="navbar rounded-3xl border-x-indigo-700 w-2/5 justify-center font-extrabold py-1 text-4xl my-auto flex">
           <ul className="flex">
             <li className="px-8">
-              <NavLink>Men</NavLink>
+              <NavLink to='/product-list' >Men</NavLink>
             </li>
             <li className="px-8">
               <NavLink>Women</NavLink>
