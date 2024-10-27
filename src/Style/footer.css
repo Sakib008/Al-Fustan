@@ -1,0 +1,10 @@
+@import '../App.css';
+
+.footer{
+background : var(--secondary-color);
+color : var(--tertiary-color);
+
+}
+.company,.copyright{
+    color : var(--primary-color)
+}
